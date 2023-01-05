@@ -28,3 +28,5 @@ python3 CA_animation.py size n_species kernel_radius n_states init_voronoi coher
 E.g:
 
 python3 CA_animation.py 200 100 2 20 0 0.9
+
+**Requirements:** numpy, matplotlib, scipy, numba, tqdm
