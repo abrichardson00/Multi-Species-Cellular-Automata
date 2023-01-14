@@ -2,7 +2,7 @@
 
 Part of my research undertaken when interning in the Institute for Perception, Action and Behaviour at the University of Edinburgh. 
 
-It involved developing models for studying competitive evolution – specifically investigating any effect this may have on the emergent properties (patterns etc.) which can arise with cellular automata (and [reaction diffusion models](https://github.com/abrichardson00/Multi-Species-Reaction-Diffusion)). While the models usually yield noisy or stationary (i.e. boring) lattices, it is possible to configure the update functions for the species such that patterns emerge.
+It involved developing models for studying competitive evolution – specifically investigating any effect this may have on the emergent properties (patterns etc.) which can arise with cellular automata (and reaction diffusion models: [https://github.com/abrichardson00/Multi-Species-Reaction-Diffusion](https://github.com/abrichardson00/Multi-Species-Reaction-Diffusion)). Multi-species variations of these models were developed, and while they usually yield noisy or stationary (i.e. boring) lattices, it is possible to configure the update functions for the species such that patterns emerge.
 
 ![Example patterns](CA_examples.png?raw=true "Example patterns")
 
